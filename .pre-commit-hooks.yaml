@@ -1,0 +1,5 @@
+-   id: jinja2-cli-python
+    name: Jinja 2 Template Engine
+    entry: jinja2
+    language: python
+    files: \.jinja$
